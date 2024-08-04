@@ -1,0 +1,31 @@
+{
+  "id": "ikes-pc-for-outlaws-of-alkenstar",
+  "title": "Ike's PC for Outlaws of Alkenstar",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "starfinder-field-test-for-pf2e",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "ikes-pc",
+      "label": "Ike's PC",
+      "path": "packs/ikes-pc",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ]
+}
