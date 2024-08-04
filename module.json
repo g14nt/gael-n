@@ -1,6 +1,14 @@
 {
   "id": "gael-n",
   "title": "Ike's PC for Outlaws of Alkenstar",
+  "url": "https://github.com/g14nt/gael-n",
+  "authors": [
+    {
+      "name": "g14nt",
+      "email": "ike.thegiant@gmail.com",
+      "url": "https://github.com/g14nt/gael-n"
+    }
+  ],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
